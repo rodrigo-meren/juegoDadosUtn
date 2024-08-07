@@ -1,0 +1,226 @@
+# depslib dependency file v1.0
+1718331854 source:c:\tup\onedrive - frgp.utn.edu.ar\cursada\primer cuatrimestre\programacion 1\tpi\juegotest\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	"juego.h"
+	"auxiliares.h"
+	"menu.h"
+
+1718433384 c:\tup\onedrive - frgp.utn.edu.ar\cursada\primer cuatrimestre\programacion 1\tpi\juegotest\menu.h
+	<iostream>
+	"Juego.h"
+
+1718432484 c:\tup\onedrive - frgp.utn.edu.ar\cursada\primer cuatrimestre\programacion 1\tpi\juegotest\juego.h
+	"auxiliares.h"
+	"carteles.h"
+
+1718432484 c:\tup\onedrive - frgp.utn.edu.ar\cursada\primer cuatrimestre\programacion 1\tpi\juegotest\auxiliares.h
+	<iostream>
+
+1717914432 c:\tup\onedrive - frgp.utn.edu.ar\cursada\primer cuatrimestre\programacion 1\tpi\juegotest\modo prueba.h
+
+1718433572 c:\tup\onedrive - frgp.utn.edu.ar\cursada\primer cuatrimestre\programacion 1\tpi\juegotest\carteles.h
+
+1718331854 source:c:\tup\onedrive - frgp.utn.edu.ar\tpintegrador\final final\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	"juego.h"
+	"auxiliares.h"
+	"menu.h"
+
+1718432484 c:\tup\onedrive - frgp.utn.edu.ar\tpintegrador\final final\juego.h
+	"auxiliares.h"
+	"carteles.h"
+
+1718432484 c:\tup\onedrive - frgp.utn.edu.ar\tpintegrador\final final\auxiliares.h
+	<iostream>
+
+1718461714 c:\tup\onedrive - frgp.utn.edu.ar\tpintegrador\final final\carteles.h
+
+1718461758 c:\tup\onedrive - frgp.utn.edu.ar\tpintegrador\final final\menu.h
+	<iostream>
+	"Juego.h"
+
+1718892110 source:c:\users\hp-pc\downloads\onedrive_2024-06-20\final final\main.cpp
+	<iostream>
+	<ctime>
+	"juego.h"
+	"auxiliares.h"
+	"menu.h"
+
+1718914644 c:\users\hp-pc\downloads\onedrive_2024-06-20\final final\juego.h
+	"auxiliares.h"
+	"carteles.h"
+
+1718914085 c:\users\hp-pc\downloads\onedrive_2024-06-20\final final\auxiliares.h
+	<iostream>
+
+1718892110 c:\users\hp-pc\downloads\onedrive_2024-06-20\final final\carteles.h
+
+1718914817 c:\users\hp-pc\downloads\onedrive_2024-06-20\final final\menu.h
+	<iostream>
+	"Juego.h"
+
+1718914976 source:c:\users\franco\onedrive - frgp.utn.edu.ar\tpintegrador\final final\main.cpp
+	<iostream>
+	<ctime>
+	"juego.h"
+	"auxiliares.h"
+	"menu.h"
+
+1718914975 c:\users\franco\onedrive - frgp.utn.edu.ar\tpintegrador\final final\juego.h
+	"auxiliares.h"
+	"carteles.h"
+
+1718946236 c:\users\franco\onedrive - frgp.utn.edu.ar\tpintegrador\final final\auxiliares.h
+	<iostream>
+
+1718914975 c:\users\franco\onedrive - frgp.utn.edu.ar\tpintegrador\final final\carteles.h
+
+1718914975 c:\users\franco\onedrive - frgp.utn.edu.ar\tpintegrador\final final\menu.h
+	<iostream>
+	"Juego.h"
+
+1719009378 source:c:\users\franco\onedrive - frgp.utn.edu.ar\final final\main.cpp
+	<iostream>
+	<ctime>
+	"auxiliares.h"
+	"carteles.h"
+	"juego.h"
+	"menu.h"
+
+1719010671 c:\users\franco\onedrive - frgp.utn.edu.ar\final final\juego.h
+
+1719009162 c:\users\franco\onedrive - frgp.utn.edu.ar\final final\auxiliares.h
+
+1719008969 c:\users\franco\onedrive - frgp.utn.edu.ar\final final\carteles.h
+
+1719011300 c:\users\franco\onedrive - frgp.utn.edu.ar\final final\menu.h
+
+1719020505 source:c:\users\hp-pc\downloads\onedrive_2024-06-22\final final\main.cpp
+	<iostream>
+	<ctime>
+	"auxiliares.h"
+	"carteles.h"
+	"juego.h"
+	"menu.h"
+
+1719025236 c:\users\hp-pc\downloads\onedrive_2024-06-22\final final\auxiliares.h
+
+1719025284 c:\users\hp-pc\downloads\onedrive_2024-06-22\final final\carteles.h
+
+1719024024 c:\users\hp-pc\downloads\onedrive_2024-06-22\final final\juego.h
+
+1719025041 c:\users\hp-pc\downloads\onedrive_2024-06-22\final final\menu.h
+
+1719056562 source:c:\users\hp-pc\downloads\onedrive_2024-06-22 (1)\final v 0.2\main.cpp
+	<iostream>
+	<ctime>
+	"auxiliares.h"
+	"carteles.h"
+	"juego.h"
+	"menu.h"
+
+1719496676 c:\users\hp-pc\downloads\onedrive_2024-06-22 (1)\final v 0.2\auxiliares.h
+
+1719495414 c:\users\hp-pc\downloads\onedrive_2024-06-22 (1)\final v 0.2\carteles.h
+
+1719498015 c:\users\hp-pc\downloads\onedrive_2024-06-22 (1)\final v 0.2\juego.h
+
+1719056562 c:\users\hp-pc\downloads\onedrive_2024-06-22 (1)\final v 0.2\menu.h
+
+1719555222 source:c:\users\franco\onedrive - frgp.utn.edu.ar\tpintegrador\posible v4.1\final v4\main.cpp
+	<iostream>
+	<ctime>
+	"rlutil.h"
+	"carteles.h"
+	"auxiliares.h"
+	"juego.h"
+	"menu.h"
+
+1719556896 c:\users\franco\onedrive - frgp.utn.edu.ar\tpintegrador\posible v4.1\final v4\auxiliares.h
+
+1719557469 c:\users\franco\onedrive - frgp.utn.edu.ar\tpintegrador\posible v4.1\final v4\carteles.h
+
+1719554383 c:\users\franco\onedrive - frgp.utn.edu.ar\tpintegrador\posible v4.1\final v4\juego.h
+
+1719554383 c:\users\franco\onedrive - frgp.utn.edu.ar\tpintegrador\posible v4.1\final v4\menu.h
+
+1719546763 c:\users\franco\onedrive - frgp.utn.edu.ar\tpintegrador\posible v4.1\final v4\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1719523192 source:c:\users\hp-pc\downloads\onedrive_2024-06-27 (1)\final v4\main.cpp
+	<iostream>
+	<ctime>
+	"rlutil.h"
+	"carteles.h"
+	"auxiliares.h"
+	"juego.h"
+	"menu.h"
+
+1719501725 c:\users\hp-pc\downloads\onedrive_2024-06-27 (1)\final v4\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1719546649 c:\users\hp-pc\downloads\onedrive_2024-06-27 (1)\final v4\carteles.h
+
+1719546534 c:\users\hp-pc\downloads\onedrive_2024-06-27 (1)\final v4\auxiliares.h
+
+1719544755 c:\users\hp-pc\downloads\onedrive_2024-06-27 (1)\final v4\juego.h
+
+1719546050 c:\users\hp-pc\downloads\onedrive_2024-06-27 (1)\final v4\menu.h
+
+1719555222 source:c:\users\franco\onedrive - frgp.utn.edu.ar\tpintegrador\version de defensa\final\main.cpp
+	<iostream>
+	<ctime>
+	"rlutil.h"
+	"carteles.h"
+	"auxiliares.h"
+	"juego.h"
+	"menu.h"
+
+1719546763 c:\users\franco\onedrive - frgp.utn.edu.ar\tpintegrador\version de defensa\final\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1719575746 c:\users\franco\onedrive - frgp.utn.edu.ar\tpintegrador\version de defensa\final\carteles.h
+
+1719556896 c:\users\franco\onedrive - frgp.utn.edu.ar\tpintegrador\version de defensa\final\auxiliares.h
+
+1719575746 c:\users\franco\onedrive - frgp.utn.edu.ar\tpintegrador\version de defensa\final\juego.h
+
+1719554383 c:\users\franco\onedrive - frgp.utn.edu.ar\tpintegrador\version de defensa\final\menu.h
+
